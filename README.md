@@ -18,10 +18,12 @@ O *Conecta Saber* é um aplicativo educacional inclusivo, criado para reduzir de
 - ✅ Interface acessível (WCAG 2.1)  
 - ✅ Sustentabilidade tecnológica e ambiental  
 
----
+--
+-
 
 ## 🖥️ Artefatos do Projeto
-- 📄 [Relatório Completo em PDF](./Relatorio_Conecta_Saber.pdf)  
+- 📄 [Relatório Completo em PDF] 📄[Relatório – Canvas de Projeto de Impacto Social.pdf.pdf](https://github.com/user-attachments/files/22315249/Relatorio.Canvas.de.Projeto.de.Impacto.Social.pdf.pdf)
+-
 - 📌 Postagem modelo para LinkedIn (na entrega acadêmica)  
 
 ---
